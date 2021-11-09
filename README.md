@@ -10,7 +10,7 @@
 ## General info
 Generate annual time series measuring forest coverage in for all municipalities in the Brazilian Amazon. Annual land use/cover classifications from [MapBiomas](https://mapbiomas.org/) provide data between 1985 and 2019 using the Collection 5 dataset.
 
-Based on [Voluntary REDD Analysis](https://github.com/thaleswest/Voluntary-REDD-analysis) developed by T. West.
+Based on [Voluntary REDD Analysis](https://github.com/thaleswest/Voluntary-REDD-analysis) developed by Thales West.
 
 	
 ## Technologies
