@@ -44,8 +44,8 @@ The workflow to generate time series is broken into two parts:
 
 **Input:** MapBiomas Collection 5
 
-**Output:** One image corrected for probited land cover transitions
-The output image is saved as an Earth Engine asset which is analyzed in Part 2. Generate Forest Time Series. Once Part 1 is complete, the image asset may be used indefinitely. If a new MapBiomas Collection is released and/or the years included in the proposed study period change, Part 1 will need to be executed again to create a new asset that matches the project requirements.
+**Output:** One image corrected for probited land cover transitions.
+The output image is saved as an Earth Engine asset which is analyzed in Part 2: Generate Forest Time Series. Once Part 1 is complete, the image asset may be used indefinitely. If a new MapBiomas Collection is released and/or the years included in the proposed study period change, Part 1 will need to be executed again to create a new asset that matches the project requirements.
 
 **Please note**, due to how data are filtered and modified, changing the years of the study will influence the amaount of forest that is measured. Annual land cover is modified using temporal filters that "look" back and forward in time. Thus, changing the study years impacts what land cover data is available to process and generate annual forest cover time series.
 
